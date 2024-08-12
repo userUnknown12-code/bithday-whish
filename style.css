@@ -275,6 +275,14 @@ body {
 @media screen and (max-width: 500px) {
     .container {
         width: 90%;
+        padding: 2vw;
+    }
+    #name {
+        font-size: 30px;
+    }
+
+    .three {
+        font-size: 25px;
     }
 
     .four .text-box {
